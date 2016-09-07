@@ -1,0 +1,19 @@
+total 64
+drwxr-xr-x 15 joshia.rheinier StafCS 4096 Sep  7 22:52 .
+drwx--x--x  4 joshia.rheinier StafCS 4096 Sep  7 16:02 ..
+drwxr-xr-x  8 joshia.rheinier StafCS 4096 Sep  7 11:28 .git
+-rw-r--r--  1 joshia.rheinier StafCS    0 Sep  7 22:53 lab01.txt
+-rw-r--r--  1 joshia.rheinier StafCS    7 Sep  5 17:22 README.md
+drwxr-xr-x  2 joshia.rheinier StafCS 4096 Sep  7 11:00 SandBox
+drwxr-xr-x  2 joshia.rheinier StafCS 4096 Sep  7 11:24 week00
+drwxr-xr-x  2 joshia.rheinier StafCS 4096 Sep  7 10:49 week01
+drwxr-xr-x  2 joshia.rheinier StafCS 4096 Sep  7 10:49 week02
+drwxr-xr-x  2 joshia.rheinier StafCS 4096 Sep  7 10:49 week03
+drwxr-xr-x  2 joshia.rheinier StafCS 4096 Sep  7 10:49 week04
+drwxr-xr-x  2 joshia.rheinier StafCS 4096 Sep  7 10:49 week05
+drwxr-xr-x  2 joshia.rheinier StafCS 4096 Sep  7 10:49 week06
+drwxr-xr-x  2 joshia.rheinier StafCS 4096 Sep  7 10:49 week07
+drwxr-xr-x  2 joshia.rheinier StafCS 4096 Sep  7 10:49 week08
+drwxr-xr-x  2 joshia.rheinier StafCS 4096 Sep  7 10:49 week09
+drwxr-xr-x  2 joshia.rheinier StafCS 4096 Sep  7 10:49 week10
+/home/fasilkom/mahasiswa/j/joshia.rheinier/os162/week01
