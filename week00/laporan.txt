@@ -1,0 +1,4 @@
+Task from week 0 is that we need to make 2 accounts, 
+which are gitHub account and Google account. Also, we need to login to badak, 
+by using our SSO account. After that, we need to reply a message in forum, 
+created by the Teaching-Assistant.
