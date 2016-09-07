@@ -1,5 +1,4 @@
-#name: Joshia Rheinier Pardamean
-#class: INT162
+#joshiarheinier
 
 For me, I expect that OS will be alot of complex scripting, since it is not using a high-level programming language.
 But it is fun though, learning something new like that.
