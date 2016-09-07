@@ -1,0 +1,4 @@
+In this week, the task is about making directory in badak server,
+and how to use git commands in general, with some newly learned CLI.
+Also in this week we are taught how to do some scripting using text editor,
+like nano or vi.
