@@ -17,3 +17,4 @@ drwxr-xr-x  2 joshia.rheinier StafCS 4096 Sep  7 10:49 week08
 drwxr-xr-x  2 joshia.rheinier StafCS 4096 Sep  7 10:49 week09
 drwxr-xr-x  2 joshia.rheinier StafCS 4096 Sep  7 10:49 week10
 /home/fasilkom/mahasiswa/j/joshia.rheinier/os162/week01
+Today is 09 Sep 2016 at 17:27:48
